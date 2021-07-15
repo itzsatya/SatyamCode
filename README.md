@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatyamCode
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything which is intreasting
+- 💞️ I’m looking to collaborate on anything which is interesting
 
 <!---
 SatyamCode/SatyamCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
